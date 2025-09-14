@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###### SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,php&theme=light)](https://skillicons.dev)
+
+###### CONNECT WITH ME
+![https://instagram.com/raka.zyyn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/rakha-adhwa-zayyan-788745384/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
